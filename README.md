@@ -18,8 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## **Project: Output image**
 ![Screenshot (90)](https://github.com/abhishakejutur/call_logs_access_app_6/assets/91953148/0efb9cbf-e153-4821-8a85-53dea6d56c05)
 
-# **YouTube Explanation**: 
-https://youtu.be/Yx6YZe_Ssgs?si=O67_UOn_N35H4985
+
 
 ## **Project Overview:**
 
@@ -64,7 +63,3 @@ Once you are satisfied with the development and testing, deploy your Call Logs A
 ## **Conclusion:**
 
 Build a Flutter app that allows users to access and view their call log. Retrieve and display the call history, including details such as caller's name, phone number, call duration, and timestamp. Implement a user interface that enables easy navigation and interaction with the call log data. Ensure the app handles permissions appropriately and adheres to best practices for accessing call log information on mobile devices.
-
-# ![image](https://github.com/abhishakejutur/projects/assets/91953148/a1bc0dbe-baf3-46d9-b307-d88f1cf3903e) _**Any Queries..**_ 
-       Call / whatsapp : +91 7337404176
-       Gmail : abhishake62232@gmail.com (or) abhishakejutur@gmail.com
