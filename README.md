@@ -29,7 +29,7 @@ In the era of advanced mobile technology, creating applications that enhance use
 
 Flutter, developed by Google, is an open-source UI software development toolkit. It is widely used for creating natively compiled applications for mobile, web, and desktop from a single codebase. Flutter's hot reload feature allows developers to experiment, build UIs, add features, and fix bugs faster.
 
-### **II. Setting Up the Development Environment:**
+**II. Setting Up the Development Environment:**
 
 To begin building a Call Logs Access App, you need to set up your development environment. Install Flutter and Dart SDK on your machine, configure your preferred IDE (Integrated Development Environment) such as Visual Studio Code, and create a new Flutter project.
 
